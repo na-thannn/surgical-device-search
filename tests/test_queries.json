@@ -1,0 +1,162 @@
+[
+  {
+    "query": "lấy dao siêu âm J&J vừa cắt vừa hàn mạch",
+    "expected_device_ids": ["DEV001"]
+  },
+  {
+    "query": "kẹp hàn mạch medtronic cho nội soi",
+    "expected_device_ids": ["DEV002"]
+  },
+  {
+    "query": "cái túi lấy bệnh phẩm nội soi",
+    "expected_device_ids": ["DEV017"]
+  },
+  {
+    "query": "kìm sinh thiết nội soi tiêu hóa",
+    "expected_device_ids": ["DEV042"]
+  },
+  {
+    "query": "lấy cây hút rửa",
+    "expected_device_ids": ["DEV025"]
+  },
+  {
+    "query": "lấy móc đốt nội soi",
+    "expected_device_ids": ["DEV023", "DEV083"]
+  },
+  {
+    "query": "cho xin cây vừa cắt bằng siêu âm vừa đốt lưỡng cực của Olympus",
+    "expected_device_ids": ["DEV005"]
+  },
+  {
+    "query": "lấy cây hàn mạch của Ethicon loại tiên tiến",
+    "expected_device_ids": ["DEV003"]
+  },
+  {
+    "query": "cần miếng dán tiếp đất trung tính khi dùng dao đốt",
+    "expected_device_ids": ["DEV064"]
+  },
+  {
+    "query": "đưa kim tạo khí vào ổ bụng lúc mới bắt đầu nội soi",
+    "expected_device_ids": ["DEV011"]
+  },
+  {
+    "query": "cần cổng vào bụng loại mở đầu tù",
+    "expected_device_ids": ["DEV014"]
+  },
+  {
+    "query": "thiết bị bơm khí CO2 duy trì áp lực ổ bụng",
+    "expected_device_ids": ["DEV015"]
+  },
+  {
+    "query": "vòng nhựa bảo vệ mép vết mổ lúc kéo mô ra",
+    "expected_device_ids": ["DEV018"]
+  },
+  {
+    "query": "lấy cái quạt để vén gan lên khi mổ nội soi",
+    "expected_device_ids": ["DEV027"]
+  },
+  {
+    "query": "dụng cụ đầu tù có miếng gạc nhỏ để tách mô nhẹ nhàng trong nội soi",
+    "expected_device_ids": ["DEV028"]
+  },
+  {
+    "query": "máy bấm cắt nối ruột theo đường thẳng dùng trong nội soi",
+    "expected_device_ids": ["DEV029"]
+  },
+  {
+    "query": "dụng cụ bấm nối ruột hình tròn",
+    "expected_device_ids": ["DEV031"]
+  },
+  {
+    "query": "cần hộp ghim thay thế nạp lại cho máy bấm cắt",
+    "expected_device_ids": ["DEV033"]
+  },
+  {
+    "query": "máy bấm ghim để đóng mép da nhanh",
+    "expected_device_ids": ["DEV032"]
+  },
+  {
+    "query": "dây cáp quang dẫn ánh sáng vào ống camera",
+    "expected_device_ids": ["DEV037"]
+  },
+  {
+    "query": "dàn xe đẩy đầy đủ camera màn hình nguồn sáng cho phòng mổ nội soi",
+    "expected_device_ids": ["DEV040"]
+  },
+  {
+    "query": "cây kéo tinh tế để bóc tách mô mềm trong mổ mở",
+    "expected_device_ids": ["DEV044"]
+  },
+  {
+    "query": "nhíp kẹp mạch máu không gây sang chấn mô",
+    "expected_device_ids": ["DEV049"]
+  },
+  {
+    "query": "cây kẹp có răng để giữ mô chắc không bị trượt",
+    "expected_device_ids": ["DEV046"]
+  },
+  {
+    "query": "dụng cụ kẹp bông gạc sát khuẩn vùng mổ",
+    "expected_device_ids": ["DEV054"]
+  },
+  {
+    "query": "khung banh vết mổ tự giữ không cần người phụ cầm",
+    "expected_device_ids": ["DEV055"]
+  },
+  {
+    "query": "sợi dây silicon mềm vòng qua đánh dấu mạch máu",
+    "expected_device_ids": ["DEV058"]
+  },
+  {
+    "query": "cưa chạy điện chuyển động lắc để cắt xương chỉnh hình",
+    "expected_device_ids": ["DEV060"]
+  },
+  {
+    "query": "thiết bị lọc hút khói sinh ra khi đốt điện",
+    "expected_device_ids": ["DEV066"]
+  },
+  {
+    "query": "bình hút dẫn lưu kín dung tích lớn sau mổ",
+    "expected_device_ids": ["DEV069"]
+  },
+  {
+    "query": "vòng thắt đốt cắt polyp qua nội soi đại tràng",
+    "expected_device_ids": ["DEV071"]
+  },
+  {
+    "query": "cái rọ lấy sỏi đường mật trong thủ thuật ERCP",
+    "expected_device_ids": ["DEV078"]
+  },
+  {
+    "query": "cây hút rửa dùng cho cánh tay robot phẫu thuật",
+    "expected_device_ids": ["DEV091"]
+  },
+  {
+    "query": "cần dụng cụ nâng và xoay tử cung khi mổ phụ khoa",
+    "expected_device_ids": ["DEV092"]
+  },
+  {
+    "query": "tay cầm tán nhuyễn đục thủy tinh thể bằng sóng siêu âm mắt",
+    "expected_device_ids": ["DEV096"]
+  },
+  {
+    "query": "dung cu vua bom rua vua hut dich trong o bung khong phai dau hut yankauer",
+    "expected_device_ids": ["DEV025"]
+  },
+  {
+    "query": "can hop dung benh pham gui giai phau benh khong phai tui endo lay benh pham",
+    "expected_device_ids": ["DEV067"]
+  },
+  {
+    "query": "phau thuat noi soi can lay mau mo nho gui giai phau benh khong phai tui benh pham",
+    "expected_device_ids": ["DEV042"]
+  },
+  {
+    "query": "can kep giu mo nhe trong noi soi khong phai babcock khong phai clip applier",
+    "expected_device_ids": ["DEV020"]
+  },
+  {
+    "query": "dao cat co vong nhu vater trong noi soi mat tuy nguoc dong",
+    "expected_device_ids": ["DEV076"]
+  }
+]

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Surgical Device Search Demo</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header class="page-header">
+        <h1>Surgical Device Search Demo</h1>
+        <p>Text input -> Embedding -> Qdrant -> Re-ranker -> Top 3 devices</p>
+      </header>
+
+      <section class="search-panel" aria-labelledby="query-label">
+        <label id="query-label" for="query">Nhập mô tả thiết bị</label>
+        <textarea id="query" placeholder="Ví dụ: lấy dao siêu âm J&J vừa cắt vừa hàn mạch"></textarea>
+
+        <div class="actions">
+          <button id="searchBtn" type="button">Search</button>
+          <button class="exampleBtn" type="button" data-query="lấy dao siêu âm J&J vừa cắt vừa hàn mạch">
+            Dao siêu âm J&J
+          </button>
+          <button class="exampleBtn" type="button" data-query="kẹp hàn mạch medtronic cho nội soi">
+            Kẹp hàn mạch
+          </button>
+          <button class="exampleBtn" type="button" data-query="cái túi lấy bệnh phẩm nội soi">
+            Túi bệnh phẩm
+          </button>
+          <button class="exampleBtn" type="button" data-query="kìm sinh thiết nội soi tiêu hóa">
+            Kìm sinh thiết
+          </button>
+        </div>
+      </section>
+
+      <section id="status" class="status" aria-live="polite"></section>
+      <section id="debug"></section>
+      <section id="results" class="results"></section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
